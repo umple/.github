@@ -17,6 +17,7 @@ The following are the core repositories:
 * [umple-lsp](https://github.com/umple/umple-lsp): The language server protocol for Umple, used by IDEs and text editors. It uses the compiler above to analyze models
 * [umple.vscode](https://github.com/umple/umple.vscode): VSCode plugin for Umple (newly updated in 2026 to use umple-lsp).
 * [umple.zed](https://github.com/umple/umple.zed): Zed plugin for Umple (new as of early 2026).
+* [umple-skills](https://github.com/umple/umple-skills) A collection of AI skills to allow AI aghents to work with Umple
 * More key repos to be added here later
 
 [The Umple user manual is at https://manual.umple.org](https://manual.umple.org)
